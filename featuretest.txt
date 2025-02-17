@@ -1,1 +1,1 @@
-This is to test the feature branch. But Now i am in the main branch.
+This is to test the feature branch. But Now i am in the feature branch.
